@@ -1,0 +1,11 @@
+.env
+**/.env
+**/.venv/
+**/venv/
+**/__pycache__/
+**/*.py[cod]
+backend/foodstore.db
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+*.zip

@@ -72,7 +72,7 @@ Conviene cambiar esa contraseña antes de exponer el proyecto en una red. Desde 
 
 ## Entrega
 
-El repositorio público y el video de demostración se completan al publicar el trabajo. La consigna pide incluir ambos enlaces en esta guía:
+El proyecto y el video de demostración están disponibles en estos enlaces:
 
 - Repositorio: [Trabajo-Pr-ctico-Integrador](https://github.com/Juanccce/Trabajo-Pr-ctico-Integrador).
 - Video de demostración: [Ver en YouTube](https://youtu.be/O0e_MPnp93Y).
